@@ -14,7 +14,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @Configuration
 public class IntelligenceDeployViewConfig implements WebMvcConfigurer {
     /**
-     * 静态资源映射
+     * 静态资源映射1
      * @param registry
      */
     @Override
